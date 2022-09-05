@@ -11,9 +11,10 @@
       "shuffle": true,
       "limit": 24,
       "page": 2,
-      "collection_id": "608ae07f014d483dbf16d1d1:brands:PIONEER:/pioneer",
+      "collection_id": null,
       "sort": "views",
-      "title": "PIONEER"
+      "title": "PIONEER",
+      "headless": false
     }
   ]
 }
