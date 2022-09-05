@@ -1,15 +1,15 @@
 {
   "description": {
-    "title": "",
-    "text": ""
+    "title": "LUGASO COMERCIO",
+    "text": "Loja de equipamentos de áudio e vídeo EQUIPAMENTOS PARA AUDIO, VIDEO E DJS. ESTAMOS NO MERCADO COM MAIS DE 12 ANOS DE EXPERIÊNCIA. TRABALHAMOS COM AS MELHORES MARCAS DO MERCADO."
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Páginas",
     "list": []
   },
   "links_2": {
-    "list_categories": true,
+    "list_categories": false,
     "title": "Categorias",
     "list": []
   },
