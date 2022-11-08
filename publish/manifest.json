@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.c439a9014bfb4929171896af29357a1f.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.41fb21052f1ade4e4f3b57ac1deb06af.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.bc60c33edd488d171b0855e507aeb466.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.cbefc8d70aeddfbbb96698bdabca7e59.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.5e2655911aebcdb038a8f50d97c61a07.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "lugasoimport",
+  "short_name": "lugasoimport",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "lugasoimport",
+  "background_color": "#ffffff",
+  "theme_color": "#32adad"
+}
